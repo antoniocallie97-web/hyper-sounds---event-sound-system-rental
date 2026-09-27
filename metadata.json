@@ -1,0 +1,6 @@
+{
+  "name": "Hyper Sounds - Event Sound System Rental",
+  "description": "Professional sound-system rental for concerts, weddings, parties, church, and corporate events. High-power bass, mid-range speakers, and customizable audio packages with instant WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
